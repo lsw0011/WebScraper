@@ -1,0 +1,430 @@
+{
+    "ResultType": "Default",
+    "TotalProductCount": 1096,
+    "Products": [
+        {
+            "SkuId": 39973764,
+            "Id": 5157306,
+            "StyleNumber": "5768395",
+            "PathAlias": "leith-cutout-slipdress",
+            "Name": "Leith Cutout Slipdress",
+            "IsOutfit": false,
+            "SaleFlag": "Regular",
+            "AgeGroup": "A",
+            "Gender": "F",
+            "IsFulfillmentCenterAvailable": false,
+            "AvailableForHoliday": false,
+            "AverageRating": 0,
+            "CountOfReviews": 0,
+            "BrandLabelId": 6941,
+            "BrandLabelName": "LEITH",
+            "IsEligibleForStorePickup": true,
+            "IsNew": false,
+            "ImsProductTypeId": 1,
+            "Media": [
+                {
+                    "Type": "MainImage",
+                    "Path": "/0/_105041300.jpg",
+                    "IsDefault": false
+                },
+                {
+                    "Type": "AltImage",
+                    "Path": "/6/_105040946.jpg",
+                    "IsDefault": false
+                }
+            ],
+            "SwatchSpriteUri": "http://s.nordstromimage.com/ImageDelivery/swatchsprite.jpg?photos=3_105039243-5_105039225&width=12&height=12&ql=60",
+            "Score": 2386509,
+            "Colors": [
+                {
+                    "Name": "BLACK",
+                    "Type": 0,
+                    "IsDefault": false,
+                    "Media": [
+                        {
+                            "Type": "Swatch",
+                            "Path": "3/_105039243.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "MainImage",
+                            "Path": "18/_105039338.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "AltImage",
+                            "Path": "1/_105040901.jpg",
+                            "IsDefault": false
+                        }
+                    ],
+                    "StandardColors": [
+                        "Black"
+                    ],
+                    "RgbColor": null
+                },
+                {
+                    "Name": "RED SCARLET",
+                    "Type": 0,
+                    "IsDefault": false,
+                    "Media": [
+                        {
+                            "Type": "Swatch",
+                            "Path": "5/_105039225.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "MainImage",
+                            "Path": "0/_105041300.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "AltImage",
+                            "Path": "6/_105040946.jpg",
+                            "IsDefault": false
+                        }
+                    ],
+                    "StandardColors": [
+                        "Red"
+                    ],
+                    "RgbColor": null
+                }
+            ],
+            "SpecialTreatmentType": "Regular",
+            "ProductFlag": "None",
+            "IsGiftBoxEligible": true,
+            "Price": {
+                "OriginalMinPrice": 49,
+                "OriginalMaxPrice": 49,
+                "CurrentMinPrice": 49,
+                "CurrentMaxPrice": 49,
+                "MinPercentOff": 0,
+                "MaxPercentOff": 0,
+                "IsPriceSuppressed": false,
+                "IsUmap": false,
+                "IsLimitedTimeSavings": false,
+                "LimitedTimeSavingsStartDate": null,
+                "LimitedTimeSavingsEndDate": null,
+                "LimitedTimeSavingsMinPrice": null,
+                "LimitedTimeSavingsMaxPrice": null,
+                "LimitedTimeSavingsPercentOff": null,
+                "LimitedTimeSavingsPromoName": null
+            },
+            "BrandSuppressPrice": false,
+            "StoreAvailability": null
+        },
+        {
+            "SkuId": 38818058,
+            "Id": 4862660,
+            "StyleNumber": "5548294",
+            "PathAlias": "tfnc-boston-cutout-maxi-dress",
+            "Name": "TFNC Boston Cutout Maxi Dress",
+            "IsOutfit": false,
+            "SaleFlag": "Regular",
+            "AgeGroup": "A",
+            "Gender": "F",
+            "IsFulfillmentCenterAvailable": false,
+            "AvailableForHoliday": false,
+            "AverageRating": 4.4,
+            "CountOfReviews": 7,
+            "BrandLabelId": 13200,
+            "BrandLabelName": "TFNC",
+            "IsEligibleForStorePickup": true,
+            "IsNew": false,
+            "ImsProductTypeId": 1,
+            "Media": [
+                {
+                    "Type": "MainImage",
+                    "Path": "/15/_103728915.jpg",
+                    "IsDefault": false
+                },
+                {
+                    "Type": "AltImage",
+                    "Path": "/19/_103728939.jpg",
+                    "IsDefault": false
+                }
+            ],
+            "SwatchSpriteUri": "http://s.nordstromimage.com/ImageDelivery/swatchsprite.jpg?photos=12_103728912&width=12&height=12&ql=60",
+            "Score": 2386469.5,
+            "Colors": [
+                {
+                    "Name": "RUBY RED",
+                    "Type": 0,
+                    "IsDefault": false,
+                    "Media": [
+                        {
+                            "Type": "Swatch",
+                            "Path": "12/_103728912.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "MainImage",
+                            "Path": "15/_103728915.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "AltImage",
+                            "Path": "19/_103728939.jpg",
+                            "IsDefault": false
+                        }
+                    ],
+                    "StandardColors": [
+                        "Red"
+                    ],
+                    "RgbColor": null
+                }
+            ],
+            "SpecialTreatmentType": "Regular",
+            "ProductFlag": "None",
+            "IsGiftBoxEligible": true,
+            "Price": {
+                "OriginalMinPrice": 125,
+                "OriginalMaxPrice": 125,
+                "CurrentMinPrice": 125,
+                "CurrentMaxPrice": 125,
+                "MinPercentOff": 0,
+                "MaxPercentOff": 0,
+                "IsPriceSuppressed": false,
+                "IsUmap": false,
+                "IsLimitedTimeSavings": false,
+                "LimitedTimeSavingsStartDate": null,
+                "LimitedTimeSavingsEndDate": null,
+                "LimitedTimeSavingsMinPrice": null,
+                "LimitedTimeSavingsMaxPrice": null,
+                "LimitedTimeSavingsPercentOff": null,
+                "LimitedTimeSavingsPromoName": null
+            },
+            "BrandSuppressPrice": false,
+            "StoreAvailability": null
+        },
+        {
+            "SkuId": 39311280,
+            "Id": 5062928,
+            "StyleNumber": "5697577",
+            "PathAlias": "something-navy-ruched-detail-dress-nordstrom-exclusive",
+            "Name": "Something Navy Ruched Detail Dress (Nordstrom Exclusive)",
+            "IsOutfit": false,
+            "SaleFlag": "Sale",
+            "AgeGroup": "A",
+            "Gender": "F",
+            "IsFulfillmentCenterAvailable": false,
+            "AvailableForHoliday": false,
+            "AverageRating": 3.2,
+            "CountOfReviews": 9,
+            "BrandLabelId": 18646,
+            "BrandLabelName": "SOMETHING NAVY",
+            "IsEligibleForStorePickup": true,
+            "IsNew": false,
+            "ImsProductTypeId": 1,
+            "Media": [
+                {
+                    "Type": "MainImage",
+                    "Path": "/17/_104701797.jpg",
+                    "IsDefault": false
+                },
+                {
+                    "Type": "AltImage",
+                    "Path": "/14/_104701494.jpg",
+                    "IsDefault": false
+                }
+            ],
+            "SwatchSpriteUri": "http://s.nordstromimage.com/ImageDelivery/swatchsprite.jpg?photos=6_104701786-12_104701812-7_104701767-19_104701639&width=12&height=12&ql=60",
+            "Score": 2386388.5,
+            "Colors": [
+                {
+                    "Name": "PURPLE IMPERIAL",
+                    "Type": 0,
+                    "IsDefault": false,
+                    "Media": [
+                        {
+                            "Type": "Swatch",
+                            "Path": "6/_104701786.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "MainImage",
+                            "Path": "10/_104701790.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "AltImage",
+                            "Path": "19/_104698059.jpg",
+                            "IsDefault": false
+                        }
+                    ],
+                    "StandardColors": [
+                        "Purple"
+                    ],
+                    "RgbColor": null
+                },
+                {
+                    "Name": "RED SCARLET",
+                    "Type": 0,
+                    "IsDefault": false,
+                    "Media": [
+                        {
+                            "Type": "Swatch",
+                            "Path": "12/_104701812.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "MainImage",
+                            "Path": "17/_104701797.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "AltImage",
+                            "Path": "14/_104701494.jpg",
+                            "IsDefault": false
+                        }
+                    ],
+                    "StandardColors": [
+                        "Red"
+                    ],
+                    "RgbColor": null
+                },
+                {
+                    "Name": "BLACK",
+                    "Type": 0,
+                    "IsDefault": false,
+                    "Media": [
+                        {
+                            "Type": "Swatch",
+                            "Path": "7/_104701767.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "MainImage",
+                            "Path": "4/_104701744.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "AltImage",
+                            "Path": "16/_104701816.jpg",
+                            "IsDefault": false
+                        }
+                    ],
+                    "StandardColors": [
+                        "Black"
+                    ],
+                    "RgbColor": null
+                },
+                {
+                    "Name": "GREY DARK CHARCOAL HEATHER",
+                    "Type": 0,
+                    "IsDefault": false,
+                    "Media": [
+                        {
+                            "Type": "Swatch",
+                            "Path": "19/_104701639.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "MainImage",
+                            "Path": "14/_104701574.jpg",
+                            "IsDefault": false
+                        },
+                        {
+                            "Type": "AltImage",
+                            "Path": "9/_104701409.jpg",
+                            "IsDefault": false
+                        }
+                    ],
+                    "StandardColors": [
+                        "Grey"
+                    ],
+                    "RgbColor": null
+                }
+            ],
+            "SpecialTreatmentType": "Regular",
+            "ProductFlag": "None",
+            "IsGiftBoxEligible": false,
+            "Price": {
+                "OriginalMinPrice": 79,
+                "OriginalMaxPrice": 79,
+                "CurrentMinPrice": 47.4,
+                "CurrentMaxPrice": 47.4,
+                "MinPercentOff": 40,
+                "MaxPercentOff": 40,
+                "IsPriceSuppressed": false,
+                "IsUmap": false,
+                "IsLimitedTimeSavings": false,
+                "LimitedTimeSavingsStartDate": null,
+                "LimitedTimeSavingsEndDate": null,
+                "LimitedTimeSavingsMinPrice": null,
+                "LimitedTimeSavingsMaxPrice": null,
+                "LimitedTimeSavingsPercentOff": null,
+                "LimitedTimeSavingsPromoName": null
+            },
+            "BrandSuppressPrice": false,
+            "StoreAvailability": null
+        }
+    ],
+    "Facets": [],
+    "SearchCategoryRootNode": [
+        {
+            "Id": 6000008,
+            "Name": "Women's Clothing",
+            "Count": 5319,
+            "Children": [
+                {
+                    "Id": 60145809,
+                    "Name": "Activewear",
+                    "Count": 9,
+                    "Children": null
+                },
+                {
+                    "Id": 6000030,
+                    "Name": "Dresses",
+                    "Count": 5275,
+                    "Children": null
+                },
+                {
+                    "Id": 6000045,
+                    "Name": "Swimsuits & Cover-Ups",
+                    "Count": 44,
+                    "Children": null
+                }
+            ]
+        },
+        {
+            "Id": 6000015,
+            "Name": "Kids' Clothing",
+            "Count": 162,
+            "Children": [
+                {
+                    "Id": 6000198,
+                    "Name": "Baby Girls",
+                    "Count": 42,
+                    "Children": null
+                },
+                {
+                    "Id": 6000209,
+                    "Name": "Girls (2T-6X)",
+                    "Count": 82,
+                    "Children": null
+                },
+                {
+                    "Id": 6000210,
+                    "Name": "Girls (7-16)",
+                    "Count": 38,
+                    "Children": null
+                }
+            ]
+        }
+    ],
+    "UrlRedirect": null,
+    "HeaderDetails": {
+        "HeaderName": null,
+        "Url": null,
+        "Image": null,
+        "ZeroResultsText": null
+    },
+    "SortHeaders": [
+        "Boosted",
+        "PriceLowToHigh",
+        "PriceHighToLow",
+        "Newest",
+        "Sale",
+        "CustomerRating"
+    ]
+}
